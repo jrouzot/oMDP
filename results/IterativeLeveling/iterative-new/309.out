@@ -1,0 +1,15 @@
+buffers=6
+windows=16
+args generated-new/309.txt 12345 3
+original_lb=0.570
+time=0.004
+obj=1.422
+time=0.954
+obj=1.208
+time=0.954
+obj=1.091
+time=3.203
+obj=1.078
+time=5.527
+obj=1.076
+end 9.004

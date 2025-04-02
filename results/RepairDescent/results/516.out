@@ -1,0 +1,17 @@
+buffers=6
+windows=4
+args generated-new/516.txt 12345 1
+original_lb=0.589
+time=0.004
+obj=1.049
+time=0.004
+obj=1.022
+time=0.004
+obj=0.990
+time=0.004
+obj=0.990
+time=0.004
+obj=0.887
+time=0.005
+obj=0.822
+c real margin = 0.178

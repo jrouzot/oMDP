@@ -1,0 +1,11 @@
+buffers=4
+windows=8
+args generated-new/213.txt 12345 3
+original_lb=0.531
+time=0.002
+obj=0.763
+time=0.170
+obj=0.698
+time=0.170
+obj=0.662
+end 1.500

@@ -1,0 +1,9 @@
+buffers=6
+windows=4
+args generated-new/502.txt 12345 3
+original_lb=0.621
+time=0.000
+obj=0.846
+time=0.161
+obj=0.759
+end 2.804

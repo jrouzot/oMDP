@@ -1,0 +1,11 @@
+buffers=4
+windows=16
+args generated-new/252.txt 12345 3
+original_lb=0.489
+time=0.002
+obj=1.686
+time=0.171
+obj=1.142
+time=0.339
+obj=1.120
+end 1.685

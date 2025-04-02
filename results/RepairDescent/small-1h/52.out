@@ -1,0 +1,7 @@
+buffers=4
+windows=8
+args generated-small/52.txt 12345 1
+original_lb=0.231
+time=0.000
+obj=0.349
+c real margin = 0.651

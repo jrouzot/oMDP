@@ -1,0 +1,20 @@
+buffers=24
+windows=40
+args generated-large/151.txt 12345 1
+original_lb=0.249
+time=0.210
+obj=0.684
+time=0.428
+obj=0.652
+time=0.460
+obj=0.575
+time=0.525
+obj=0.572
+time=0.550
+obj=0.517
+time=1.217
+obj=0.496
+time=4.491
+obj=0.489
+time=45.910
+obj=0.488

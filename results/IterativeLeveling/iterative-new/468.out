@@ -1,0 +1,11 @@
+buffers=4
+windows=12
+args generated-new/468.txt 12345 3
+original_lb=0.465
+time=0.002
+obj=1.138
+time=0.549
+obj=1.040
+time=0.972
+obj=1.027
+end 2.590

@@ -1,0 +1,13 @@
+buffers=6
+windows=16
+args generated-new/482.txt 12345 3
+original_lb=0.570
+time=0.002
+obj=2.191
+time=0.002
+obj=1.330
+time=0.549
+obj=1.133
+time=2.194
+obj=1.112
+end 5.067

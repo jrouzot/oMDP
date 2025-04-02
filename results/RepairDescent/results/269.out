@@ -1,0 +1,13 @@
+buffers=6
+windows=12
+args generated-new/269.txt 12345 1
+original_lb=0.607
+time=0.002
+obj=1.085
+time=0.002
+obj=1.014
+time=0.013
+obj=1.013
+time=0.040
+obj=1.001
+FAIL AT WINDOW 8

@@ -1,0 +1,21 @@
+buffers=4
+windows=8
+args generated-small/212.txt 12345 1
+original_lb=0.156
+time=0.003
+obj=0.870
+time=0.003
+obj=0.582
+time=0.003
+obj=0.507
+time=0.003
+obj=0.466
+time=0.003
+obj=0.465
+time=0.003
+obj=0.445
+time=0.003
+obj=0.444
+time=0.003
+obj=0.440
+c real margin = 0.560

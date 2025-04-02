@@ -1,0 +1,15 @@
+buffers=4
+windows=16
+args generated-new/286.txt 12345 3
+original_lb=0.700
+time=0.003
+obj=1.263
+time=0.003
+obj=0.952
+time=0.171
+obj=0.878
+time=0.478
+obj=0.859
+time=2.010
+obj=0.859
+end 2.010

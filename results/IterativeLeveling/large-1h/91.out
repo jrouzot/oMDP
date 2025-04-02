@@ -1,0 +1,24 @@
+buffers=24
+windows=40
+args generated-large/91.txt 12345 1
+original_lb=0.224
+time=0.200
+obj=1.049
+time=0.219
+obj=1.027
+time=0.316
+obj=1.026
+time=0.386
+obj=1.012
+time=0.449
+obj=1.005
+time=0.577
+obj=1.002
+time=1.087
+obj=1.000
+time=13.780
+obj=1.000
+time=20.887
+obj=1.000
+time=72.862
+obj=1.000

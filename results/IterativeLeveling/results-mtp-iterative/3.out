@@ -1,0 +1,24 @@
+buffers=16
+windows=94
+args instances/MTP013.txt 12345 1
+original_lb=0.452
+time=0.019
+obj=0.824
+time=0.028
+obj=0.820
+time=0.037
+obj=0.722
+time=0.046
+obj=0.587
+time=0.055
+obj=0.494
+time=0.064
+obj=0.482
+time=0.073
+obj=0.468
+time=0.082
+obj=0.460
+time=0.109
+obj=0.455
+time=0.127
+obj=0.452

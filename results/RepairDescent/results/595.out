@@ -1,0 +1,13 @@
+buffers=4
+windows=4
+args generated-new/595.txt 12345 1
+original_lb=0.643
+time=0.002
+obj=1.018
+time=0.002
+obj=0.921
+time=0.002
+obj=0.799
+time=0.002
+obj=0.779
+c real margin = 0.221

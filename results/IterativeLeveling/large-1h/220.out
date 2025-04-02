@@ -1,0 +1,26 @@
+buffers=16
+windows=80
+args generated-large/220.txt 12345 1
+original_lb=0.255
+time=0.086
+obj=1.002
+time=0.211
+obj=1.000
+time=6.409
+obj=0.986
+time=6.988
+obj=0.950
+time=9.957
+obj=0.946
+time=15.010
+obj=0.943
+time=17.447
+obj=0.933
+time=46.660
+obj=0.930
+time=201.017
+obj=0.929
+time=204.373
+obj=0.927
+time=217.525
+obj=0.899

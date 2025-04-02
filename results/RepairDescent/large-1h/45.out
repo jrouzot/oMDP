@@ -1,0 +1,27 @@
+buffers=8
+windows=80
+args generated-large/45.txt 12345 1
+original_lb=0.190
+time=0.009
+obj=1.032
+time=0.021
+obj=1.018
+time=0.075
+obj=1.005
+time=0.267
+obj=1.002
+time=0.575
+obj=1.000
+time=2.931
+obj=1.000
+time=6.317
+obj=1.000
+time=10.813
+obj=1.000
+time=148.706
+obj=1.000
+time=286.193
+obj=1.000
+time=1348.002
+obj=1.000
+FAIL AT WINDOW 42

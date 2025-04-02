@@ -1,0 +1,16 @@
+buffers=8
+windows=4
+args generated-small/156.txt 12345 1
+original_lb=0.261
+time=0.003
+obj=0.489
+time=0.183
+obj=0.476
+time=0.183
+obj=0.471
+time=0.183
+obj=0.471
+time=0.183
+obj=0.463
+time=0.342
+obj=0.427

@@ -1,0 +1,25 @@
+buffers=8
+windows=12
+args generated-new/561.txt 12345 1
+original_lb=0.728
+time=0.004
+obj=1.043
+time=0.004
+obj=1.006
+time=0.007
+obj=1.005
+time=0.010
+obj=1.002
+time=0.019
+obj=1.002
+time=0.019
+obj=0.998
+time=0.020
+obj=0.987
+time=0.020
+obj=0.982
+time=0.020
+obj=0.980
+time=0.020
+obj=0.968
+c real margin = 0.032

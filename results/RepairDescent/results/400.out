@@ -1,0 +1,9 @@
+buffers=6
+windows=4
+args generated-new/400.txt 12345 1
+original_lb=0.655
+time=0.002
+obj=0.664
+time=0.002
+obj=0.655
+c real margin = 0.345

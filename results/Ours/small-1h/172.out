@@ -1,0 +1,14 @@
+peak-ub=277
+buffers=8
+windows=9
+obj=238
+time=13
+buffers=8
+windows=9
+original_status=UNSAT
+original_lb=238
+obj=238
+time=13
+status=OPTIMAL
+real_obj=23.773
+real_time=13

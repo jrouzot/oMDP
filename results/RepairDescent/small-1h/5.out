@@ -1,0 +1,17 @@
+buffers=4
+windows=8
+args generated-small/5.txt 12345 1
+original_lb=0.228
+time=0.002
+obj=0.648
+time=0.002
+obj=0.646
+time=0.002
+obj=0.587
+time=0.002
+obj=0.535
+time=0.002
+obj=0.501
+time=0.002
+obj=0.486
+c real margin = 0.514

@@ -1,0 +1,15 @@
+buffers=6
+windows=8
+args generated-new/420.txt 12345 1
+original_lb=0.700
+time=0.001
+obj=0.750
+time=0.002
+obj=0.723
+time=0.002
+obj=0.709
+time=0.002
+obj=0.708
+time=0.002
+obj=0.700
+c real margin = 0.300

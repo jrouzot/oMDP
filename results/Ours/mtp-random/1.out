@@ -1,0 +1,16 @@
+global=1
+denseranking=1
+symmetry=1
+single_window=1
+peak-ub=912
+buffers=16
+windows=65
+branches=19530215
+failures=8176113
+original_status=TIMEOUT
+original_lb=536
+obj=912
+time=3600003
+status=TIMEOUT
+real_obj=91.013
+real_time=3600003

@@ -1,0 +1,20 @@
+buffers=24
+windows=20
+args generated-large/202.txt 12345 1
+original_lb=0.247
+time=0.195
+obj=0.655
+time=0.212
+obj=0.648
+time=0.245
+obj=0.628
+time=0.336
+obj=0.597
+time=0.350
+obj=0.570
+time=0.951
+obj=0.552
+time=6.075
+obj=0.526
+time=999.485
+obj=0.523

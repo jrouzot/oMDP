@@ -1,0 +1,18 @@
+buffers=16
+windows=60
+args generated-large/129.txt 12345 1
+original_lb=0.257
+time=0.064
+obj=0.931
+time=20.704
+obj=0.912
+time=62.827
+obj=0.907
+time=334.570
+obj=0.902
+time=821.690
+obj=0.901
+time=978.914
+obj=0.901
+time=1332.692
+obj=0.890

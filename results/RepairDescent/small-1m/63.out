@@ -1,0 +1,21 @@
+buffers=4
+windows=4
+args generated-small/63.txt 12345 1
+original_lb=0.223
+time=0.002
+obj=0.387
+time=0.002
+obj=0.355
+time=0.002
+obj=0.352
+time=0.002
+obj=0.330
+time=0.002
+obj=0.321
+time=0.002
+obj=0.296
+time=0.002
+obj=0.295
+time=0.002
+obj=0.293
+c real margin = 0.707

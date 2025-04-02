@@ -1,0 +1,7 @@
+buffers=6
+windows=8
+args generated-new/193.txt 12345 3
+original_lb=0.763
+time=0.003
+obj=0.763
+end 0.003

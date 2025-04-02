@@ -1,0 +1,23 @@
+buffers=24
+windows=80
+args generated-large/229.txt 12345 1
+original_lb=0.243
+time=0.222
+obj=1.062
+time=0.238
+obj=1.037
+time=0.636
+obj=1.029
+time=0.957
+obj=1.006
+time=3.180
+obj=1.003
+time=8.807
+obj=1.002
+time=12.627
+obj=1.002
+time=14.418
+obj=1.000
+time=26.182
+obj=1.000
+FAIL AT WINDOW 19

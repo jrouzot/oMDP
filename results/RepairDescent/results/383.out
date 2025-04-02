@@ -1,0 +1,23 @@
+buffers=4
+windows=8
+args generated-new/383.txt 12345 1
+original_lb=0.715
+time=0.002
+obj=0.869
+time=0.002
+obj=0.808
+time=0.002
+obj=0.780
+time=0.002
+obj=0.770
+time=0.003
+obj=0.764
+time=0.003
+obj=0.751
+time=0.003
+obj=0.738
+time=0.003
+obj=0.725
+time=0.021
+obj=0.721
+c real margin = 0.279

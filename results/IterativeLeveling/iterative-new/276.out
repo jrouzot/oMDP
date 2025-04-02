@@ -1,0 +1,13 @@
+buffers=6
+windows=4
+args generated-new/276.txt 12345 3
+original_lb=0.642
+time=0.002
+obj=0.938
+time=0.002
+obj=0.726
+time=1.014
+obj=0.699
+time=1.014
+obj=0.691
+end 9.649

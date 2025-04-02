@@ -1,0 +1,7 @@
+buffers=4
+windows=12
+args generated-new/156.txt 12345 3
+original_lb=0.689
+time=0.002
+obj=0.689
+end 0.002

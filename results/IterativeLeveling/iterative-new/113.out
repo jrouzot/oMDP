@@ -1,0 +1,11 @@
+buffers=6
+windows=12
+args generated-new/113.txt 12345 3
+original_lb=0.518
+time=0.003
+obj=0.904
+time=1.778
+obj=0.848
+time=1.778
+obj=0.824
+end 9.077

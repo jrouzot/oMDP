@@ -1,0 +1,13 @@
+buffers=4
+windows=4
+args generated-new/313.txt 12345 1
+original_lb=0.491
+time=0.002
+obj=0.579
+time=0.002
+obj=0.577
+time=0.002
+obj=0.559
+time=0.002
+obj=0.535
+c real margin = 0.465

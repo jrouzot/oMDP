@@ -1,0 +1,9 @@
+buffers=6
+windows=8
+args generated-new/127.txt 12345 3
+original_lb=0.595
+time=0.002
+obj=1.034
+time=0.002
+obj=0.618
+end 1.211

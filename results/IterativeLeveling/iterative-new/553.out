@@ -1,0 +1,11 @@
+buffers=6
+windows=4
+args generated-new/553.txt 12345 3
+original_lb=0.685
+time=0.003
+obj=1.262
+time=0.003
+obj=0.961
+time=0.865
+obj=0.880
+end 9.713

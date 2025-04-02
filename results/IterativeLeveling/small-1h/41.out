@@ -1,0 +1,8 @@
+buffers=4
+windows=4
+args generated-small/41.txt 12345 1
+original_lb=0.165
+time=0.000
+obj=0.357
+time=0.045
+obj=0.292

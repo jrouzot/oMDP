@@ -1,0 +1,9 @@
+buffers=16
+windows=4
+args generated-new-16/42.txt 12345 1
+original_lb=0.676
+time=0.006
+obj=0.734
+time=0.006
+obj=0.676
+c real margin = 0.324

@@ -1,0 +1,10 @@
+buffers=16
+windows=80
+args generated-large/92.txt 12345 1
+original_lb=0.231
+time=0.068
+obj=0.877
+time=0.089
+obj=0.834
+time=0.272
+obj=0.726

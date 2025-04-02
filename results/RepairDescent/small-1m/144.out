@@ -1,0 +1,27 @@
+buffers=4
+windows=16
+args generated-small/144.txt 12345 1
+original_lb=0.146
+time=0.002
+obj=0.627
+time=0.002
+obj=0.549
+time=0.002
+obj=0.534
+time=0.002
+obj=0.533
+time=0.002
+obj=0.520
+time=0.002
+obj=0.509
+time=0.002
+obj=0.471
+time=0.002
+obj=0.466
+time=0.002
+obj=0.466
+time=0.002
+obj=0.461
+time=0.002
+obj=0.453
+c real margin = 0.547

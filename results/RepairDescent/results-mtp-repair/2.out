@@ -1,0 +1,9 @@
+buffers=16
+windows=76
+args instances/MTP012.txt 12345 1
+original_lb=0.275
+time=0.016
+obj=0.290
+time=0.019
+obj=0.275
+c real margin = 0.725

@@ -1,0 +1,14 @@
+buffers=16
+windows=80
+args generated-large/173.txt 12345 1
+original_lb=0.240
+time=0.071
+obj=0.931
+time=9.748
+obj=0.919
+time=24.556
+obj=0.885
+time=43.389
+obj=0.853
+time=62.963
+obj=0.831

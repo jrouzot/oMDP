@@ -1,0 +1,25 @@
+buffers=16
+windows=8
+args generated-small/53.txt 12345 1
+original_lb=0.193
+time=0.003
+obj=0.460
+time=0.004
+obj=0.397
+time=0.004
+obj=0.392
+time=0.004
+obj=0.383
+time=0.005
+obj=0.365
+time=0.005
+obj=0.364
+time=0.006
+obj=0.357
+time=0.007
+obj=0.350
+time=0.013
+obj=0.348
+time=0.052
+obj=0.345
+c real margin = 0.655

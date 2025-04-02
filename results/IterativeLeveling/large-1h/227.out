@@ -1,0 +1,24 @@
+buffers=16
+windows=60
+args generated-large/227.txt 12345 1
+original_lb=0.231
+time=0.107
+obj=0.968
+time=2.395
+obj=0.967
+time=13.307
+obj=0.928
+time=14.865
+obj=0.924
+time=81.033
+obj=0.919
+time=177.294
+obj=0.917
+time=296.523
+obj=0.911
+time=1155.050
+obj=0.902
+time=2471.928
+obj=0.901
+time=2887.965
+obj=0.898

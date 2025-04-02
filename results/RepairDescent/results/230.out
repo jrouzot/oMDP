@@ -1,0 +1,23 @@
+buffers=4
+windows=16
+args generated-new/230.txt 12345 1
+original_lb=0.430
+time=0.002
+obj=0.748
+time=0.002
+obj=0.699
+time=0.002
+obj=0.691
+time=0.002
+obj=0.679
+time=0.002
+obj=0.651
+time=0.002
+obj=0.640
+time=0.002
+obj=0.637
+time=0.003
+obj=0.579
+time=0.003
+obj=0.570
+c real margin = 0.430

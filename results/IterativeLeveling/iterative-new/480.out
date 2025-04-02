@@ -1,0 +1,13 @@
+buffers=4
+windows=8
+args generated-new/480.txt 12345 3
+original_lb=0.606
+time=0.003
+obj=1.106
+time=0.003
+obj=0.779
+time=0.003
+obj=0.688
+time=0.003
+obj=0.640
+end 2.906

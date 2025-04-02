@@ -1,0 +1,10 @@
+buffers=16
+windows=12
+args generated-small/177.txt 12345 1
+original_lb=0.258
+time=0.005
+obj=0.765
+time=0.125
+obj=0.749
+time=0.132
+obj=0.662

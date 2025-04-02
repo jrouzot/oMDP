@@ -1,0 +1,19 @@
+buffers=6
+windows=8
+args generated-new/355.txt 12345 1
+original_lb=0.614
+time=0.001
+obj=1.098
+time=0.002
+obj=1.071
+time=0.002
+obj=1.062
+time=0.002
+obj=1.060
+time=0.002
+obj=0.979
+time=0.002
+obj=0.951
+time=0.002
+obj=0.945
+c real margin = 0.055

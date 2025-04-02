@@ -1,0 +1,22 @@
+buffers=24
+windows=80
+args generated-large/225.txt 12345 1
+original_lb=0.223
+time=0.241
+obj=0.914
+time=44.723
+obj=0.865
+time=44.764
+obj=0.838
+time=50.751
+obj=0.836
+time=51.808
+obj=0.825
+time=54.048
+obj=0.818
+time=54.177
+obj=0.814
+time=56.430
+obj=0.802
+time=892.775
+obj=0.791

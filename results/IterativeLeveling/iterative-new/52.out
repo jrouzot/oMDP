@@ -1,0 +1,9 @@
+buffers=4
+windows=4
+args generated-new/52.txt 12345 3
+original_lb=0.603
+time=0.003
+obj=0.663
+time=0.191
+obj=0.642
+end 2.198

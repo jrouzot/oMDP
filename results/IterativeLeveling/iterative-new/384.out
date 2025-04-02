@@ -1,0 +1,13 @@
+buffers=8
+windows=8
+args generated-new/384.txt 12345 3
+original_lb=0.683
+time=0.004
+obj=1.126
+time=0.005
+obj=0.894
+time=2.011
+obj=0.838
+time=7.074
+obj=0.835
+end 17.408

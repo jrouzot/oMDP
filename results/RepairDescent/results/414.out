@@ -1,0 +1,15 @@
+buffers=4
+windows=12
+args generated-new/414.txt 12345 1
+original_lb=0.673
+time=0.001
+obj=1.029
+time=0.002
+obj=1.027
+time=0.002
+obj=1.007
+time=0.002
+obj=0.996
+time=0.003
+obj=0.988
+c real margin = 0.012

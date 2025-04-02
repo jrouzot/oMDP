@@ -1,0 +1,10 @@
+buffers=4
+windows=12
+args generated-small/113.txt 12345 1
+original_lb=0.168
+time=0.002
+obj=0.665
+time=0.085
+obj=0.577
+time=0.146
+obj=0.542

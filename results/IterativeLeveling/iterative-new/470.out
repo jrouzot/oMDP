@@ -1,0 +1,11 @@
+buffers=6
+windows=16
+args generated-new/470.txt 12345 3
+original_lb=0.573
+time=0.000
+obj=1.609
+time=0.000
+obj=1.040
+time=0.093
+obj=0.921
+end 2.315

@@ -1,0 +1,17 @@
+buffers=4
+windows=4
+args generated-new/484.txt 12345 1
+original_lb=0.607
+time=0.003
+obj=0.747
+time=0.003
+obj=0.719
+time=0.003
+obj=0.708
+time=0.003
+obj=0.653
+time=0.003
+obj=0.650
+time=0.003
+obj=0.607
+c real margin = 0.393

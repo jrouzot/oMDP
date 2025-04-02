@@ -1,0 +1,19 @@
+buffers=4
+windows=12
+args generated-new/422.txt 12345 1
+original_lb=0.597
+time=0.001
+obj=1.073
+time=0.001
+obj=1.067
+time=0.002
+obj=1.041
+time=0.002
+obj=1.036
+time=0.002
+obj=1.025
+time=0.002
+obj=1.011
+time=0.002
+obj=1.009
+FAIL AT WINDOW 9

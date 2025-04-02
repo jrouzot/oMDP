@@ -1,0 +1,11 @@
+buffers=4
+windows=8
+args generated-new/245.txt 12345 3
+original_lb=0.386
+time=0.001
+obj=0.994
+time=0.039
+obj=0.838
+time=0.305
+obj=0.834
+end 0.608

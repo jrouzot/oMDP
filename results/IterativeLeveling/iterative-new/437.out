@@ -1,0 +1,13 @@
+buffers=4
+windows=12
+args generated-new/437.txt 12345 3
+original_lb=0.455
+time=0.001
+obj=1.131
+time=0.002
+obj=0.791
+time=0.710
+obj=0.734
+time=1.395
+obj=0.730
+end 3.830

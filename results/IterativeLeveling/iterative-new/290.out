@@ -1,0 +1,13 @@
+buffers=4
+windows=8
+args generated-new/290.txt 12345 3
+original_lb=0.566
+time=0.003
+obj=1.210
+time=0.251
+obj=1.040
+time=0.584
+obj=0.979
+time=1.929
+obj=0.976
+end 1.929

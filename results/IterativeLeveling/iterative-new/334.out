@@ -1,0 +1,17 @@
+buffers=6
+windows=8
+args generated-new/334.txt 12345 3
+original_lb=0.716
+time=0.003
+obj=1.475
+time=0.003
+obj=1.082
+time=0.003
+obj=0.890
+time=1.867
+obj=0.864
+time=1.868
+obj=0.854
+time=1.870
+obj=0.846
+end 7.256

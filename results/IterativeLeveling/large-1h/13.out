@@ -1,0 +1,18 @@
+buffers=16
+windows=40
+args generated-large/13.txt 12345 1
+original_lb=0.226
+time=0.076
+obj=0.685
+time=0.368
+obj=0.685
+time=0.386
+obj=0.579
+time=0.424
+obj=0.461
+time=12.479
+obj=0.437
+time=13.745
+obj=0.435
+time=13.892
+obj=0.428

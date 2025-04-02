@@ -1,0 +1,27 @@
+buffers=6
+windows=4
+args generated-new/260.txt 12345 1
+original_lb=0.472
+time=0.003
+obj=0.684
+time=0.003
+obj=0.563
+time=0.003
+obj=0.544
+time=0.003
+obj=0.538
+time=0.004
+obj=0.531
+time=0.004
+obj=0.505
+time=0.004
+obj=0.496
+time=0.004
+obj=0.492
+time=0.005
+obj=0.483
+time=0.005
+obj=0.482
+time=0.006
+obj=0.472
+c real margin = 0.528

@@ -1,0 +1,23 @@
+buffers=4
+windows=12
+args generated-new/441.txt 12345 1
+original_lb=0.586
+time=0.003
+obj=1.120
+time=0.003
+obj=0.985
+time=0.003
+obj=0.945
+time=0.003
+obj=0.870
+time=0.003
+obj=0.868
+time=0.003
+obj=0.809
+time=0.004
+obj=0.755
+time=0.004
+obj=0.755
+time=0.012
+obj=0.750
+c real margin = 0.250

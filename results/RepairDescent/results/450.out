@@ -1,0 +1,23 @@
+buffers=6
+windows=16
+args generated-new/450.txt 12345 1
+original_lb=0.566
+time=0.002
+obj=0.955
+time=0.003
+obj=0.949
+time=0.003
+obj=0.936
+time=0.003
+obj=0.913
+time=0.003
+obj=0.882
+time=0.003
+obj=0.872
+time=0.003
+obj=0.872
+time=0.004
+obj=0.861
+time=0.004
+obj=0.827
+c real margin = 0.173

@@ -1,0 +1,11 @@
+buffers=6
+windows=12
+args generated-new/568.txt 12345 3
+original_lb=0.667
+time=0.003
+obj=0.871
+time=0.354
+obj=0.798
+time=0.354
+obj=0.769
+end 1.400

@@ -1,0 +1,15 @@
+buffers=8
+windows=4
+args generated-new/159.txt 12345 1
+original_lb=0.562
+time=0.006
+obj=0.688
+time=0.008
+obj=0.683
+time=0.009
+obj=0.651
+time=0.010
+obj=0.643
+time=0.012
+obj=0.639
+c real margin = 0.361

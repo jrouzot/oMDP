@@ -1,0 +1,17 @@
+buffers=24
+windows=80
+args generated-large/67.txt 12345 1
+original_lb=0.236
+time=0.267
+obj=1.064
+time=0.292
+obj=1.010
+time=10.638
+obj=1.009
+time=10.885
+obj=1.001
+time=20.210
+obj=1.000
+time=40.413
+obj=1.000
+FAIL AT WINDOW 37

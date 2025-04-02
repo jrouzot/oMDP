@@ -1,0 +1,24 @@
+buffers=8
+windows=20
+args generated-large/142.txt 12345 1
+original_lb=0.259
+time=0.012
+obj=0.573
+time=0.047
+obj=0.561
+time=0.063
+obj=0.550
+time=0.087
+obj=0.519
+time=0.155
+obj=0.519
+time=3.600
+obj=0.516
+time=15.119
+obj=0.511
+time=17.170
+obj=0.491
+time=44.316
+obj=0.483
+time=140.584
+obj=0.480

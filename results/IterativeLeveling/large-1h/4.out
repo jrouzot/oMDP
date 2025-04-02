@@ -1,0 +1,26 @@
+buffers=16
+windows=20
+args generated-large/4.txt 12345 1
+original_lb=0.229
+time=0.053
+obj=0.786
+time=0.259
+obj=0.770
+time=0.289
+obj=0.766
+time=5.299
+obj=0.765
+time=5.440
+obj=0.758
+time=6.497
+obj=0.755
+time=13.154
+obj=0.748
+time=14.868
+obj=0.732
+time=32.031
+obj=0.726
+time=55.885
+obj=0.716
+time=1235.306
+obj=0.706

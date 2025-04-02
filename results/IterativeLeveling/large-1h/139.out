@@ -1,0 +1,22 @@
+buffers=24
+windows=40
+args generated-large/139.txt 12345 1
+original_lb=0.252
+time=0.247
+obj=0.664
+time=0.446
+obj=0.663
+time=0.486
+obj=0.532
+time=0.518
+obj=0.508
+time=0.835
+obj=0.505
+time=1.564
+obj=0.495
+time=1.649
+obj=0.470
+time=6.078
+obj=0.470
+time=161.794
+obj=0.469

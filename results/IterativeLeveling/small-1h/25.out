@@ -1,0 +1,20 @@
+buffers=16
+windows=12
+args generated-small/25.txt 12345 1
+original_lb=0.253
+time=0.010
+obj=0.748
+time=0.864
+obj=0.580
+time=0.868
+obj=0.551
+time=0.870
+obj=0.527
+time=0.871
+obj=0.495
+time=0.898
+obj=0.494
+time=0.969
+obj=0.493
+time=1.125
+obj=0.487

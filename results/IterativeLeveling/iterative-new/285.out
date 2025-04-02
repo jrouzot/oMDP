@@ -1,0 +1,9 @@
+buffers=4
+windows=8
+args generated-new/285.txt 12345 3
+original_lb=0.537
+time=0.002
+obj=1.112
+time=0.002
+obj=0.741
+end 2.215

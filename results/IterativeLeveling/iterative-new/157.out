@@ -1,0 +1,11 @@
+buffers=4
+windows=4
+args generated-new/157.txt 12345 3
+original_lb=0.465
+time=0.003
+obj=0.562
+time=0.079
+obj=0.535
+time=0.079
+obj=0.515
+end 0.505

@@ -1,0 +1,18 @@
+buffers=8
+windows=20
+args generated-large/57.txt 12345 1
+original_lb=0.240
+time=0.012
+obj=0.707
+time=2.195
+obj=0.661
+time=2.937
+obj=0.648
+time=189.402
+obj=0.648
+time=227.981
+obj=0.643
+time=524.828
+obj=0.640
+time=1054.958
+obj=0.634

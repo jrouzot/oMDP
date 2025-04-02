@@ -1,0 +1,15 @@
+buffers=4
+windows=16
+args generated-new/341.txt 12345 3
+original_lb=0.538
+time=0.002
+obj=1.212
+time=0.041
+obj=1.040
+time=0.088
+obj=0.992
+time=0.088
+obj=0.971
+time=0.324
+obj=0.971
+end 0.421

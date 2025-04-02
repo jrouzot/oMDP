@@ -1,0 +1,26 @@
+buffers=16
+windows=80
+args generated-large/159.txt 12345 1
+original_lb=0.210
+time=0.091
+obj=0.944
+time=4.063
+obj=0.925
+time=17.515
+obj=0.916
+time=26.533
+obj=0.914
+time=40.527
+obj=0.914
+time=44.143
+obj=0.910
+time=49.951
+obj=0.905
+time=69.516
+obj=0.894
+time=179.368
+obj=0.885
+time=1189.163
+obj=0.879
+time=1636.186
+obj=0.845

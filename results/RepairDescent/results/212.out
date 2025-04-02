@@ -1,0 +1,19 @@
+buffers=6
+windows=12
+args generated-new/212.txt 12345 1
+original_lb=0.601
+time=0.004
+obj=0.795
+time=0.004
+obj=0.786
+time=0.004
+obj=0.746
+time=0.004
+obj=0.742
+time=0.005
+obj=0.712
+time=0.005
+obj=0.697
+time=0.005
+obj=0.659
+c real margin = 0.341

@@ -1,0 +1,13 @@
+buffers=6
+windows=12
+args generated-new/451.txt 12345 3
+original_lb=0.571
+time=0.003
+obj=1.681
+time=0.003
+obj=1.086
+time=1.361
+obj=1.050
+time=2.169
+obj=1.031
+end 2.169

@@ -1,0 +1,16 @@
+buffers=8
+windows=40
+args generated-large/75.txt 12345 1
+original_lb=0.250
+time=0.010
+obj=0.880
+time=6.001
+obj=0.831
+time=268.310
+obj=0.826
+time=709.173
+obj=0.826
+time=1356.891
+obj=0.816
+time=3167.128
+obj=0.810

@@ -1,0 +1,13 @@
+buffers=4
+windows=16
+args generated-new/45.txt 12345 3
+original_lb=0.507
+time=0.002
+obj=2.016
+time=0.002
+obj=0.770
+time=0.162
+obj=0.736
+time=0.162
+obj=0.715
+end 1.226

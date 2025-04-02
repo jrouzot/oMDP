@@ -1,0 +1,13 @@
+buffers=8
+windows=12
+args generated-new/3.txt 12345 3
+original_lb=0.549
+time=0.005
+obj=0.972
+time=0.006
+obj=0.747
+time=3.387
+obj=0.732
+time=3.388
+obj=0.726
+end 12.218

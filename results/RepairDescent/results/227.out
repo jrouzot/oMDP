@@ -1,0 +1,11 @@
+buffers=8
+windows=4
+args generated-new/227.txt 12345 1
+original_lb=0.576
+time=0.003
+obj=0.582
+time=0.004
+obj=0.576
+time=0.004
+obj=0.576
+c real margin = 0.424

@@ -1,0 +1,18 @@
+buffers=24
+windows=20
+args generated-large/211.txt 12345 1
+original_lb=0.256
+time=0.235
+obj=0.495
+time=0.297
+obj=0.493
+time=0.318
+obj=0.424
+time=0.339
+obj=0.409
+time=0.381
+obj=0.406
+time=16.252
+obj=0.398
+time=16.283
+obj=0.394

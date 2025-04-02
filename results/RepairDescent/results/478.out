@@ -1,0 +1,19 @@
+buffers=6
+windows=4
+args generated-new/478.txt 12345 1
+original_lb=0.584
+time=0.003
+obj=0.877
+time=0.003
+obj=0.843
+time=0.003
+obj=0.791
+time=0.003
+obj=0.774
+time=0.003
+obj=0.737
+time=0.003
+obj=0.734
+time=0.004
+obj=0.658
+c real margin = 0.342

@@ -1,0 +1,26 @@
+buffers=8
+windows=60
+args generated-large/113.txt 12345 1
+original_lb=0.243
+time=0.015
+obj=0.672
+time=0.093
+obj=0.667
+time=0.099
+obj=0.628
+time=0.254
+obj=0.624
+time=0.308
+obj=0.585
+time=0.326
+obj=0.575
+time=3.525
+obj=0.573
+time=4.407
+obj=0.572
+time=14.026
+obj=0.567
+time=15.173
+obj=0.563
+time=20.585
+obj=0.545

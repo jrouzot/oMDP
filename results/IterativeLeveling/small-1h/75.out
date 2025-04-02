@@ -1,0 +1,18 @@
+buffers=4
+windows=16
+args generated-small/75.txt 12345 1
+original_lb=0.239
+time=0.002
+obj=0.807
+time=0.002
+obj=0.742
+time=0.003
+obj=0.723
+time=0.005
+obj=0.714
+time=0.006
+obj=0.705
+time=0.006
+obj=0.665
+time=0.009
+obj=0.654

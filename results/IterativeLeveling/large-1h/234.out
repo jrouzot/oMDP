@@ -1,0 +1,26 @@
+buffers=8
+windows=40
+args generated-large/234.txt 12345 1
+original_lb=0.257
+time=0.014
+obj=0.705
+time=0.376
+obj=0.669
+time=0.406
+obj=0.639
+time=0.421
+obj=0.636
+time=0.436
+obj=0.625
+time=0.587
+obj=0.584
+time=120.158
+obj=0.582
+time=204.999
+obj=0.579
+time=218.820
+obj=0.574
+time=2634.222
+obj=0.571
+time=2810.962
+obj=0.566

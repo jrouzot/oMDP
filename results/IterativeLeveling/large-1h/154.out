@@ -1,0 +1,26 @@
+buffers=24
+windows=80
+args generated-large/154.txt 12345 1
+original_lb=0.286
+time=0.184
+obj=1.084
+time=0.214
+obj=1.044
+time=0.221
+obj=1.005
+time=0.505
+obj=1.001
+time=1.152
+obj=1.001
+time=2.390
+obj=1.000
+time=34.121
+obj=1.000
+time=79.936
+obj=1.000
+time=392.071
+obj=1.000
+time=1292.210
+obj=1.000
+time=2888.706
+obj=1.000

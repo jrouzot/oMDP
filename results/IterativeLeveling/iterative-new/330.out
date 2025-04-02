@@ -1,0 +1,13 @@
+buffers=4
+windows=8
+args generated-new/330.txt 12345 3
+original_lb=0.731
+time=0.002
+obj=1.147
+time=0.003
+obj=0.903
+time=0.003
+obj=0.778
+time=0.272
+obj=0.766
+end 6.691

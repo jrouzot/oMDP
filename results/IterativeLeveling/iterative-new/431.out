@@ -1,0 +1,15 @@
+buffers=4
+windows=16
+args generated-new/431.txt 12345 3
+original_lb=0.657
+time=0.002
+obj=1.195
+time=0.317
+obj=1.040
+time=0.317
+obj=0.970
+time=0.744
+obj=0.963
+time=0.744
+obj=0.949
+end 0.744

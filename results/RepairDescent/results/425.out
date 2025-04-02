@@ -1,0 +1,13 @@
+buffers=4
+windows=12
+args generated-new/425.txt 12345 1
+original_lb=0.495
+time=0.001
+obj=0.692
+time=0.001
+obj=0.657
+time=0.001
+obj=0.616
+time=0.001
+obj=0.616
+c real margin = 0.384

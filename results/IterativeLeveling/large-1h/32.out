@@ -1,0 +1,24 @@
+buffers=16
+windows=80
+args generated-large/32.txt 12345 1
+original_lb=0.249
+time=0.070
+obj=1.063
+time=0.085
+obj=1.042
+time=0.096
+obj=1.003
+time=1.228
+obj=1.002
+time=1.248
+obj=1.000
+time=2.404
+obj=1.000
+time=3.921
+obj=1.000
+time=31.302
+obj=1.000
+time=46.002
+obj=1.000
+time=991.040
+obj=1.000

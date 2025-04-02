@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/build",
+  "command": "/usr/bin/c++ -DEIGEN_MPL2_ONLY -DHAVE_CONFIG_H -DOR_TOOLS_AS_DYNAMIC_LIB -DUSE_BOP -DUSE_CBC -DUSE_CLP -DUSE_GLOP -DUSE_LP_PARSER -DUSE_MATH_OPT -DUSE_PDLP -DUSE_SCIP -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/tools -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp -isystem /usr/local/include/coin -isystem /usr/local/include/eigen3 -g -fPIE -fwrapv -std=c++17 -o CMakeFiles/global-constraint-transfert-scheduling.dir/main.cc.o -c /home/jrouzot/Documents/LAAS/transfert-scheduling-csp/main.cc",
+  "file": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/main.cc"
+},
+{
+  "directory": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/build",
+  "command": "/usr/bin/c++ -DEIGEN_MPL2_ONLY -DHAVE_CONFIG_H -DOR_TOOLS_AS_DYNAMIC_LIB -DUSE_BOP -DUSE_CBC -DUSE_CLP -DUSE_GLOP -DUSE_LP_PARSER -DUSE_MATH_OPT -DUSE_PDLP -DUSE_SCIP -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/tools -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp -isystem /usr/local/include/coin -isystem /usr/local/include/eigen3 -g -fPIE -fwrapv -std=c++17 -o CMakeFiles/global-constraint-transfert-scheduling.dir/utils/cpp/Algorithm.cpp.o -c /home/jrouzot/Documents/LAAS/transfert-scheduling-csp/utils/cpp/Algorithm.cpp",
+  "file": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/utils/cpp/Algorithm.cpp"
+},
+{
+  "directory": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/build",
+  "command": "/usr/bin/c++ -DEIGEN_MPL2_ONLY -DHAVE_CONFIG_H -DOR_TOOLS_AS_DYNAMIC_LIB -DUSE_BOP -DUSE_CBC -DUSE_CLP -DUSE_GLOP -DUSE_LP_PARSER -DUSE_MATH_OPT -DUSE_PDLP -DUSE_SCIP -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/tools -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp -isystem /usr/local/include/coin -isystem /usr/local/include/eigen3 -g -fPIE -fwrapv -std=c++17 -o CMakeFiles/global-constraint-transfert-scheduling.dir/utils/cpp/Instance.cpp.o -c /home/jrouzot/Documents/LAAS/transfert-scheduling-csp/utils/cpp/Instance.cpp",
+  "file": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/utils/cpp/Instance.cpp"
+},
+{
+  "directory": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/build",
+  "command": "/usr/bin/c++ -DEIGEN_MPL2_ONLY -DHAVE_CONFIG_H -DOR_TOOLS_AS_DYNAMIC_LIB -DUSE_BOP -DUSE_CBC -DUSE_CLP -DUSE_GLOP -DUSE_LP_PARSER -DUSE_MATH_OPT -DUSE_PDLP -DUSE_SCIP -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/tools -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp -isystem /usr/local/include/coin -isystem /usr/local/include/eigen3 -g -fPIE -fwrapv -std=c++17 -o CMakeFiles/global-constraint-transfert-scheduling.dir/utils/cpp/Options.cpp.o -c /home/jrouzot/Documents/LAAS/transfert-scheduling-csp/utils/cpp/Options.cpp",
+  "file": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/utils/cpp/Options.cpp"
+},
+{
+  "directory": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/build",
+  "command": "/usr/bin/c++ -DEIGEN_MPL2_ONLY -DHAVE_CONFIG_H -DOR_TOOLS_AS_DYNAMIC_LIB -DUSE_BOP -DUSE_CBC -DUSE_CLP -DUSE_GLOP -DUSE_LP_PARSER -DUSE_MATH_OPT -DUSE_PDLP -DUSE_SCIP -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/tools -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp -isystem /usr/local/include/coin -isystem /usr/local/include/eigen3 -g -fPIE -fwrapv -std=c++17 -o CMakeFiles/global-constraint-transfert-scheduling.dir/utils/cpp/Simulator.cpp.o -c /home/jrouzot/Documents/LAAS/transfert-scheduling-csp/utils/cpp/Simulator.cpp",
+  "file": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/utils/cpp/Simulator.cpp"
+},
+{
+  "directory": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/build",
+  "command": "/usr/bin/c++ -DEIGEN_MPL2_ONLY -DHAVE_CONFIG_H -DOR_TOOLS_AS_DYNAMIC_LIB -DUSE_BOP -DUSE_CBC -DUSE_CLP -DUSE_GLOP -DUSE_LP_PARSER -DUSE_MATH_OPT -DUSE_PDLP -DUSE_SCIP -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/tools -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp -isystem /usr/local/include/coin -isystem /usr/local/include/eigen3 -g -fPIE -fwrapv -std=c++17 -o CMakeFiles/global-constraint-transfert-scheduling.dir/utils/cpp/SparseSet.cpp.o -c /home/jrouzot/Documents/LAAS/transfert-scheduling-csp/utils/cpp/SparseSet.cpp",
+  "file": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/utils/cpp/SparseSet.cpp"
+},
+{
+  "directory": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/build",
+  "command": "/usr/bin/c++ -DEIGEN_MPL2_ONLY -DHAVE_CONFIG_H -DOR_TOOLS_AS_DYNAMIC_LIB -DUSE_BOP -DUSE_CBC -DUSE_CLP -DUSE_GLOP -DUSE_LP_PARSER -DUSE_MATH_OPT -DUSE_PDLP -DUSE_SCIP -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/tools -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp -isystem /usr/local/include/coin -isystem /usr/local/include/eigen3 -g -fPIE -fwrapv -std=c++17 -o CMakeFiles/global-constraint-transfert-scheduling.dir/utils/cpp/InstanceSingleWindow.cpp.o -c /home/jrouzot/Documents/LAAS/transfert-scheduling-csp/utils/cpp/InstanceSingleWindow.cpp",
+  "file": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/utils/cpp/InstanceSingleWindow.cpp"
+},
+{
+  "directory": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/build",
+  "command": "/usr/bin/c++ -DEIGEN_MPL2_ONLY -DHAVE_CONFIG_H -DOR_TOOLS_AS_DYNAMIC_LIB -DUSE_BOP -DUSE_CBC -DUSE_CLP -DUSE_GLOP -DUSE_LP_PARSER -DUSE_MATH_OPT -DUSE_PDLP -DUSE_SCIP -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/tools -I/home/jrouzot/Documents/LAAS/transfert-scheduling-csp -isystem /usr/local/include/coin -isystem /usr/local/include/eigen3 -g -fPIE -fwrapv -std=c++17 -o CMakeFiles/global-constraint-transfert-scheduling.dir/csp/TransferScheduling.cc.o -c /home/jrouzot/Documents/LAAS/transfert-scheduling-csp/csp/TransferScheduling.cc",
+  "file": "/home/jrouzot/Documents/LAAS/transfert-scheduling-csp/csp/TransferScheduling.cc"
+}
+]

@@ -1,0 +1,11 @@
+buffers=4
+windows=12
+args generated-new/521.txt 12345 3
+original_lb=0.465
+time=0.000
+obj=0.762
+time=0.216
+obj=0.687
+time=0.216
+obj=0.639
+end 3.569

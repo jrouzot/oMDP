@@ -1,0 +1,9 @@
+buffers=4
+windows=16
+args generated-new/481.txt 12345 3
+original_lb=0.492
+time=0.003
+obj=1.340
+time=0.333
+obj=1.077
+end 4.809

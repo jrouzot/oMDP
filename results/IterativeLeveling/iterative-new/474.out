@@ -1,0 +1,7 @@
+buffers=6
+windows=4
+args generated-new/474.txt 12345 3
+original_lb=0.685
+time=0.000
+obj=0.685
+end 0.000

@@ -1,0 +1,15 @@
+buffers=4
+windows=16
+args generated-new/109.txt 12345 3
+original_lb=0.595
+time=0.002
+obj=1.512
+time=0.070
+obj=1.267
+time=0.360
+obj=1.212
+time=0.360
+obj=1.183
+time=0.970
+obj=1.180
+end 2.702

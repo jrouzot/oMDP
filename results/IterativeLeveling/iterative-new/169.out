@@ -1,0 +1,9 @@
+buffers=4
+windows=8
+args generated-new/169.txt 12345 3
+original_lb=0.457
+time=0.002
+obj=0.776
+time=0.014
+obj=0.610
+end 2.088

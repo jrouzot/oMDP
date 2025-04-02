@@ -1,0 +1,13 @@
+buffers=4
+windows=12
+args generated-new/506.txt 12345 3
+original_lb=0.629
+time=0.000
+obj=1.021
+time=0.000
+obj=0.812
+time=0.175
+obj=0.764
+time=0.514
+obj=0.760
+end 1.228

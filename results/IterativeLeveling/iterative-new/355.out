@@ -1,0 +1,15 @@
+buffers=6
+windows=8
+args generated-new/355.txt 12345 3
+original_lb=0.614
+time=0.002
+obj=1.365
+time=1.153
+obj=1.157
+time=1.153
+obj=1.043
+time=1.154
+obj=1.008
+time=9.744
+obj=1.008
+end 10.968

@@ -1,0 +1,9 @@
+buffers=6
+windows=16
+args generated-new/435.txt 12345 3
+original_lb=0.549
+time=0.001
+obj=1.593
+time=0.012
+obj=1.069
+end 8.395

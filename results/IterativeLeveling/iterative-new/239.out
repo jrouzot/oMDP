@@ -1,0 +1,9 @@
+buffers=6
+windows=12
+args generated-new/239.txt 12345 3
+original_lb=0.269
+time=0.002
+obj=1.001
+time=0.002
+obj=0.620
+end 2.159

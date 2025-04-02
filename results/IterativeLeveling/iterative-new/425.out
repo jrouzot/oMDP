@@ -1,0 +1,15 @@
+buffers=4
+windows=12
+args generated-new/425.txt 12345 3
+original_lb=0.495
+time=0.001
+obj=1.083
+time=0.001
+obj=0.772
+time=0.054
+obj=0.702
+time=0.054
+obj=0.665
+time=0.054
+obj=0.634
+end 0.117

@@ -1,0 +1,16 @@
+buffers=16
+windows=90
+args instances/MTP014.txt 12345 1
+original_lb=0.466
+time=0.018
+obj=0.691
+time=13.525
+obj=0.544
+time=13.532
+obj=0.533
+time=13.538
+obj=0.527
+time=20.041
+obj=0.524
+time=20.060
+obj=0.521

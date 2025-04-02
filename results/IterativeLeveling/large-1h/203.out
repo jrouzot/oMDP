@@ -1,0 +1,26 @@
+buffers=24
+windows=80
+args generated-large/203.txt 12345 1
+original_lb=0.239
+time=0.206
+obj=1.066
+time=0.247
+obj=1.056
+time=0.276
+obj=1.040
+time=0.297
+obj=1.000
+time=16.703
+obj=1.000
+time=19.258
+obj=1.000
+time=63.895
+obj=1.000
+time=88.113
+obj=1.000
+time=125.931
+obj=1.000
+time=234.663
+obj=1.000
+time=884.471
+obj=1.000

@@ -1,0 +1,13 @@
+buffers=6
+windows=8
+args generated-new/440.txt 12345 3
+original_lb=0.559
+time=0.003
+obj=1.825
+time=0.003
+obj=1.188
+time=0.699
+obj=1.106
+time=1.084
+obj=1.067
+end 1.084

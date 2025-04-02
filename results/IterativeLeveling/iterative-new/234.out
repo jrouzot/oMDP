@@ -1,0 +1,11 @@
+buffers=4
+windows=4
+args generated-new/234.txt 12345 3
+original_lb=0.534
+time=0.002
+obj=0.782
+time=0.293
+obj=0.710
+time=0.293
+obj=0.680
+end 4.479

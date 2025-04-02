@@ -1,0 +1,7 @@
+buffers=6
+windows=8
+args generated-new/361.txt 12345 1
+original_lb=0.759
+time=0.003
+obj=0.759
+c real margin = 0.241

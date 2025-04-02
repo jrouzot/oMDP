@@ -1,0 +1,8 @@
+buffers=24
+windows=40
+args generated-large/33.txt 12345 1
+original_lb=0.276
+time=0.171
+obj=0.918
+time=944.358
+obj=0.911

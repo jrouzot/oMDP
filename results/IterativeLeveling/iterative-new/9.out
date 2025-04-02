@@ -1,0 +1,11 @@
+buffers=8
+windows=12
+args generated-new/9.txt 12345 3
+original_lb=0.692
+time=0.004
+obj=1.672
+time=0.005
+obj=1.152
+time=5.812
+obj=1.126
+end 16.465

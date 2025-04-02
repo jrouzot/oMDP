@@ -1,0 +1,23 @@
+buffers=4
+windows=4
+args generated-new/105.txt 12345 1
+original_lb=0.585
+time=0.002
+obj=1.001
+time=0.002
+obj=0.930
+time=0.002
+obj=0.891
+time=0.003
+obj=0.870
+time=0.003
+obj=0.815
+time=0.003
+obj=0.809
+time=0.003
+obj=0.796
+time=0.003
+obj=0.795
+time=0.003
+obj=0.790
+c real margin = 0.210

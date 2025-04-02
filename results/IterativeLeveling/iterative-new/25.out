@@ -1,0 +1,19 @@
+buffers=8
+windows=16
+args generated-new/25.txt 12345 3
+original_lb=0.671
+time=0.005
+obj=1.845
+time=1.453
+obj=1.549
+time=1.453
+obj=1.378
+time=1.453
+obj=1.317
+time=1.454
+obj=1.287
+time=3.367
+obj=1.279
+time=5.943
+obj=1.276
+end 12.160

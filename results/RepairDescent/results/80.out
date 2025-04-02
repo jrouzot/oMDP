@@ -1,0 +1,11 @@
+buffers=4
+windows=4
+args generated-new/80.txt 12345 1
+original_lb=0.411
+time=0.001
+obj=0.546
+time=0.001
+obj=0.536
+time=0.001
+obj=0.533
+c real margin = 0.467

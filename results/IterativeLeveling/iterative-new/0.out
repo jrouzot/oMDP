@@ -1,0 +1,11 @@
+buffers=6
+windows=16
+args generated-new/0.txt 12345 3
+original_lb=0.618
+time=0.000
+obj=1.744
+time=0.000
+obj=1.169
+time=0.543
+obj=1.029
+end 7.991

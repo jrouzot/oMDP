@@ -1,0 +1,23 @@
+buffers=4
+windows=16
+args generated-new/294.txt 12345 1
+original_lb=0.472
+time=0.003
+obj=0.928
+time=0.004
+obj=0.918
+time=0.004
+obj=0.897
+time=0.004
+obj=0.892
+time=0.004
+obj=0.828
+time=0.004
+obj=0.822
+time=0.004
+obj=0.816
+time=0.005
+obj=0.808
+time=0.005
+obj=0.808
+c real margin = 0.192

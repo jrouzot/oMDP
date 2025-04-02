@@ -1,0 +1,11 @@
+buffers=6
+windows=16
+args generated-new/385.txt 12345 3
+original_lb=0.545
+time=0.003
+obj=0.929
+time=0.004
+obj=0.628
+time=0.584
+obj=0.617
+end 2.966

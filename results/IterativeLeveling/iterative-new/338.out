@@ -1,0 +1,11 @@
+buffers=6
+windows=8
+args generated-new/338.txt 12345 3
+original_lb=0.590
+time=0.002
+obj=0.959
+time=0.979
+obj=0.898
+time=3.497
+obj=0.897
+end 4.661

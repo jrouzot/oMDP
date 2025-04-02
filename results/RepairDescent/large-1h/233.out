@@ -1,0 +1,29 @@
+buffers=24
+windows=80
+args generated-large/233.txt 12345 1
+original_lb=0.197
+time=0.147
+obj=1.096
+time=0.158
+obj=1.080
+time=0.253
+obj=1.027
+time=0.343
+obj=1.023
+time=0.412
+obj=1.002
+time=1.141
+obj=1.001
+time=6.557
+obj=1.000
+time=10.145
+obj=1.000
+time=14.913
+obj=1.000
+time=34.196
+obj=1.000
+time=40.040
+obj=1.000
+time=63.444
+obj=1.000
+FAIL AT WINDOW 24

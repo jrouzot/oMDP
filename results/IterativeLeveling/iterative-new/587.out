@@ -1,0 +1,15 @@
+buffers=6
+windows=4
+args generated-new/587.txt 12345 3
+original_lb=0.665
+time=0.000
+obj=1.086
+time=0.000
+obj=0.862
+time=0.629
+obj=0.806
+time=0.630
+obj=0.782
+time=2.512
+obj=0.777
+end 2.512

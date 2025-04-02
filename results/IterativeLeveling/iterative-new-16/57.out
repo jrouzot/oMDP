@@ -1,0 +1,15 @@
+buffers=16
+windows=12
+args generated-new-16/57.txt 12345 3
+original_lb=0.693
+time=0.014
+obj=2.104
+time=0.016
+obj=1.398
+time=1.536
+obj=1.194
+time=1.538
+obj=1.111
+time=1.540
+obj=1.064
+end 19.703

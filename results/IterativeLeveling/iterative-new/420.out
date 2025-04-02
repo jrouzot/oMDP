@@ -1,0 +1,13 @@
+buffers=6
+windows=8
+args generated-new/420.txt 12345 3
+original_lb=0.700
+time=0.001
+obj=0.888
+time=0.001
+obj=0.755
+time=0.001
+obj=0.724
+time=0.002
+obj=0.700
+end 0.002

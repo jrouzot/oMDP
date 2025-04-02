@@ -1,0 +1,16 @@
+buffers=4
+windows=12
+args generated-small/179.txt 12345 1
+original_lb=0.245
+time=0.002
+obj=0.906
+time=0.002
+obj=0.754
+time=0.002
+obj=0.739
+time=0.002
+obj=0.719
+time=0.003
+obj=0.696
+time=0.003
+obj=0.682

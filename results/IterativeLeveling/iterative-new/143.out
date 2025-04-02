@@ -1,0 +1,13 @@
+buffers=6
+windows=4
+args generated-new/143.txt 12345 3
+original_lb=0.724
+time=0.002
+obj=1.175
+time=0.002
+obj=0.937
+time=0.698
+obj=0.909
+time=2.514
+obj=0.906
+end 2.514

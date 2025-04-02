@@ -1,0 +1,15 @@
+buffers=8
+windows=16
+args generated-new/416.txt 12345 3
+original_lb=0.683
+time=0.002
+obj=1.246
+time=0.002
+obj=0.932
+time=0.026
+obj=0.806
+time=0.239
+obj=0.766
+time=0.748
+obj=0.762
+end 5.195

@@ -1,0 +1,17 @@
+buffers=8
+windows=16
+args generated-new/452.txt 12345 3
+original_lb=0.534
+time=0.004
+obj=1.968
+time=1.913
+obj=1.554
+time=1.914
+obj=1.402
+time=1.922
+obj=1.321
+time=1.991
+obj=1.283
+time=4.128
+obj=1.273
+end 21.451

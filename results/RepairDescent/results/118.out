@@ -1,0 +1,11 @@
+buffers=6
+windows=16
+args generated-new/118.txt 12345 1
+original_lb=0.491
+time=0.000
+obj=1.017
+time=0.072
+obj=1.014
+time=0.742
+obj=1.002
+FAIL AT WINDOW 6

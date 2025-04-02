@@ -1,0 +1,18 @@
+buffers=24
+windows=40
+args generated-large/185.txt 12345 1
+original_lb=0.252
+time=0.202
+obj=0.819
+time=4.886
+obj=0.819
+time=4.910
+obj=0.585
+time=4.994
+obj=0.543
+time=5.091
+obj=0.540
+time=8.439
+obj=0.536
+time=77.228
+obj=0.529

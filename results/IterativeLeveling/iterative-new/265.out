@@ -1,0 +1,7 @@
+buffers=4
+windows=8
+args generated-new/265.txt 12345 3
+original_lb=0.607
+time=0.002
+obj=0.607
+end 0.002

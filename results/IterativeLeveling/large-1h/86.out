@@ -1,0 +1,22 @@
+buffers=8
+windows=80
+args generated-large/86.txt 12345 1
+original_lb=0.188
+time=0.015
+obj=0.916
+time=0.451
+obj=0.915
+time=1.392
+obj=0.833
+time=3.954
+obj=0.817
+time=150.773
+obj=0.815
+time=247.422
+obj=0.814
+time=424.166
+obj=0.805
+time=686.657
+obj=0.802
+time=841.864
+obj=0.802

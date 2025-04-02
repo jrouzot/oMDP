@@ -1,0 +1,11 @@
+buffers=4
+windows=8
+args generated-new/417.txt 12345 3
+original_lb=0.680
+time=0.001
+obj=0.992
+time=0.108
+obj=0.910
+time=0.605
+obj=0.906
+end 1.131

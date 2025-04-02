@@ -1,0 +1,9 @@
+buffers=6
+windows=16
+args generated-new/189.txt 12345 1
+original_lb=0.634
+time=0.002
+obj=1.025
+time=0.007
+obj=1.010
+FAIL AT WINDOW 2

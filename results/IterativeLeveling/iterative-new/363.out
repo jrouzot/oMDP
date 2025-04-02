@@ -1,0 +1,9 @@
+buffers=4
+windows=8
+args generated-new/363.txt 12345 3
+original_lb=0.566
+time=0.002
+obj=0.882
+time=0.002
+obj=0.585
+end 2.070

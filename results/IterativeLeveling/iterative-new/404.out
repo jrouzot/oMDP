@@ -1,0 +1,13 @@
+buffers=4
+windows=8
+args generated-new/404.txt 12345 3
+original_lb=0.330
+time=0.002
+obj=1.050
+time=0.202
+obj=0.850
+time=0.202
+obj=0.708
+time=0.202
+obj=0.698
+end 2.104

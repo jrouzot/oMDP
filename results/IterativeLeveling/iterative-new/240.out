@@ -1,0 +1,9 @@
+buffers=4
+windows=4
+args generated-new/240.txt 12345 3
+original_lb=0.458
+time=0.001
+obj=0.554
+time=0.001
+obj=0.487
+end 0.413

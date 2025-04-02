@@ -1,0 +1,25 @@
+buffers=6
+windows=8
+args generated-new/588.txt 12345 1
+original_lb=0.646
+time=0.002
+obj=0.883
+time=0.002
+obj=0.876
+time=0.002
+obj=0.747
+time=0.002
+obj=0.741
+time=0.002
+obj=0.738
+time=0.003
+obj=0.705
+time=0.003
+obj=0.700
+time=0.003
+obj=0.685
+time=0.003
+obj=0.648
+time=0.003
+obj=0.646
+c real margin = 0.354

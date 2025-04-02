@@ -1,0 +1,11 @@
+buffers=4
+windows=8
+args generated-new/463.txt 12345 3
+original_lb=0.524
+time=0.001
+obj=1.228
+time=0.001
+obj=0.873
+time=1.534
+obj=0.850
+end 8.963

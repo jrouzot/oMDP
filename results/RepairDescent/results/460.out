@@ -1,0 +1,9 @@
+buffers=4
+windows=8
+args generated-new/460.txt 12345 1
+original_lb=0.597
+time=0.002
+obj=0.685
+time=0.002
+obj=0.597
+c real margin = 0.403

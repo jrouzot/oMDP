@@ -1,0 +1,6 @@
+buffers=24
+windows=40
+args generated-large/219.txt 12345 1
+original_lb=0.249
+time=0.236
+obj=0.855

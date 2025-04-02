@@ -1,0 +1,7 @@
+buffers=4
+windows=4
+args generated-new/360.txt 12345 3
+original_lb=0.441
+time=0.002
+obj=0.485
+end 0.949

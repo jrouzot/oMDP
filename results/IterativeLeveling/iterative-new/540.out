@@ -1,0 +1,13 @@
+buffers=8
+windows=8
+args generated-new/540.txt 12345 3
+original_lb=0.568
+time=0.003
+obj=1.127
+time=0.722
+obj=0.985
+time=3.054
+obj=0.976
+time=3.055
+obj=0.970
+end 9.156

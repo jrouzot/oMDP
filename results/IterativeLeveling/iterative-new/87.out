@@ -1,0 +1,11 @@
+buffers=4
+windows=12
+args generated-new/87.txt 12345 3
+original_lb=0.411
+time=0.000
+obj=0.838
+time=0.121
+obj=0.705
+time=0.660
+obj=0.702
+end 1.559

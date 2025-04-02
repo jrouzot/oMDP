@@ -1,0 +1,11 @@
+buffers=6
+windows=4
+args generated-new/233.txt 12345 1
+original_lb=0.723
+time=0.002
+obj=1.028
+time=0.003
+obj=1.024
+time=0.009
+obj=1.021
+FAIL AT WINDOW 1

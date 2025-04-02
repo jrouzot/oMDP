@@ -1,0 +1,13 @@
+buffers=4
+windows=8
+args generated-new/104.txt 12345 3
+original_lb=0.587
+time=0.002
+obj=1.120
+time=0.002
+obj=0.840
+time=0.140
+obj=0.806
+time=0.278
+obj=0.800
+end 0.699

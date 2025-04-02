@@ -1,0 +1,16 @@
+buffers=8
+windows=16
+args generated-small/107.txt 12345 1
+original_lb=0.229
+time=0.000
+obj=0.692
+time=0.000
+obj=0.666
+time=0.003
+obj=0.621
+time=0.619
+obj=0.619
+time=0.639
+obj=0.616
+time=0.666
+obj=0.587

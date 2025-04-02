@@ -1,0 +1,10 @@
+buffers=4
+windows=8
+args generated-small/209.txt 12345 1
+original_lb=0.181
+time=0.000
+obj=0.404
+time=0.117
+obj=0.382
+time=0.257
+obj=0.381

@@ -1,0 +1,13 @@
+buffers=4
+windows=12
+args generated-new/268.txt 12345 3
+original_lb=0.610
+time=0.002
+obj=1.316
+time=0.003
+obj=0.905
+time=0.003
+obj=0.736
+time=0.003
+obj=0.669
+end 0.121

@@ -1,0 +1,11 @@
+buffers=6
+windows=4
+args generated-new/270.txt 12345 3
+original_lb=0.623
+time=0.003
+obj=0.771
+time=0.003
+obj=0.685
+time=3.030
+obj=0.673
+end 9.306

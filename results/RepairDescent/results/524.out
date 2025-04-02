@@ -1,0 +1,15 @@
+buffers=4
+windows=4
+args generated-new/524.txt 12345 1
+original_lb=0.716
+time=0.002
+obj=0.882
+time=0.002
+obj=0.857
+time=0.002
+obj=0.830
+time=0.002
+obj=0.821
+time=0.002
+obj=0.792
+c real margin = 0.208

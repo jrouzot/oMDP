@@ -1,0 +1,15 @@
+buffers=4
+windows=16
+args generated-new/433.txt 12345 1
+original_lb=0.646
+time=0.002
+obj=0.914
+time=0.002
+obj=0.862
+time=0.002
+obj=0.781
+time=0.002
+obj=0.778
+time=0.014
+obj=0.772
+c real margin = 0.228

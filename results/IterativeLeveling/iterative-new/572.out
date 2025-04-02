@@ -1,0 +1,9 @@
+buffers=8
+windows=4
+args generated-new/572.txt 12345 3
+original_lb=0.691
+time=0.002
+obj=0.716
+time=0.003
+obj=0.691
+end 0.003

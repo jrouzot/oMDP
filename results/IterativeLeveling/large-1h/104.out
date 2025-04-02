@@ -1,0 +1,24 @@
+buffers=8
+windows=80
+args generated-large/104.txt 12345 1
+original_lb=0.199
+time=0.013
+obj=1.054
+time=0.019
+obj=1.037
+time=0.024
+obj=1.011
+time=0.040
+obj=1.000
+time=0.383
+obj=1.000
+time=0.453
+obj=0.995
+time=1.027
+obj=0.985
+time=1.322
+obj=0.972
+time=1.328
+obj=0.940
+time=2.808
+obj=0.894

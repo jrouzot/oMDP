@@ -1,0 +1,25 @@
+buffers=4
+windows=12
+args generated-new/19.txt 12345 1
+original_lb=0.587
+time=0.003
+obj=1.142
+time=0.003
+obj=1.140
+time=0.003
+obj=1.134
+time=0.003
+obj=1.115
+time=0.003
+obj=0.914
+time=0.003
+obj=0.783
+time=0.004
+obj=0.779
+time=0.004
+obj=0.779
+time=0.004
+obj=0.776
+time=0.004
+obj=0.761
+c real margin = 0.239

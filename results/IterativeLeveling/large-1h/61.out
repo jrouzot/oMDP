@@ -1,0 +1,16 @@
+buffers=16
+windows=40
+args generated-large/61.txt 12345 1
+original_lb=0.250
+time=0.057
+obj=0.692
+time=0.066
+obj=0.627
+time=0.077
+obj=0.606
+time=0.099
+obj=0.530
+time=0.132
+obj=0.501
+time=21.507
+obj=0.501

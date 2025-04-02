@@ -1,0 +1,11 @@
+buffers=6
+windows=4
+args generated-new/342.txt 12345 3
+original_lb=0.521
+time=0.002
+obj=0.695
+time=0.324
+obj=0.643
+time=0.986
+obj=0.637
+end 3.234

@@ -1,0 +1,13 @@
+buffers=6
+windows=12
+args generated-new/571.txt 12345 3
+original_lb=0.577
+time=0.002
+obj=1.201
+time=0.003
+obj=0.883
+time=1.027
+obj=0.797
+time=1.059
+obj=0.762
+end 11.641

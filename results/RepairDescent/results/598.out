@@ -1,0 +1,13 @@
+buffers=6
+windows=12
+args generated-new/598.txt 12345 1
+original_lb=0.648
+time=0.002
+obj=1.038
+time=0.011
+obj=1.028
+time=0.020
+obj=1.025
+time=0.172
+obj=1.003
+FAIL AT WINDOW 4
