@@ -1,9 +1,0 @@
-buffers=16
-windows=12
-args generated-new-16/129.txt 12345 1
-original_lb=0.746
-time=0.011
-obj=0.753
-time=0.013
-obj=0.746
-c real margin = 0.254

@@ -1,7 +1,0 @@
-buffers=4
-windows=4
-args generated-small/35.txt 12345 1
-original_lb=0.223
-time=0.002
-obj=0.223
-c real margin = 0.777

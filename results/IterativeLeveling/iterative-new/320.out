@@ -1,7 +1,0 @@
-buffers=4
-windows=8
-args generated-new/320.txt 12345 3
-original_lb=0.309
-time=0.002
-obj=0.403
-end 1.974

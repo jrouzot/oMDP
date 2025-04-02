@@ -1,9 +1,0 @@
-buffers=4
-windows=12
-args generated-new/182.txt 12345 3
-original_lb=0.390
-time=0.000
-obj=0.912
-time=0.000
-obj=0.619
-end 2.809

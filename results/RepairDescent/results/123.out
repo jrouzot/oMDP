@@ -1,7 +1,0 @@
-buffers=6
-windows=16
-args generated-new/123.txt 12345 1
-original_lb=0.632
-time=0.003
-obj=1.113
-FAIL AT WINDOW 2

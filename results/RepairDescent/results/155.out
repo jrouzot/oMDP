@@ -1,9 +1,0 @@
-buffers=8
-windows=8
-args generated-new/155.txt 12345 1
-original_lb=0.567
-time=0.006
-obj=0.752
-time=0.006
-obj=0.567
-c real margin = 0.433

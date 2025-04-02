@@ -1,9 +1,0 @@
-buffers=4
-windows=8
-args generated-new/107.txt 12345 3
-original_lb=0.538
-time=0.002
-obj=0.989
-time=0.002
-obj=0.756
-end 4.815

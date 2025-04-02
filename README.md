@@ -56,4 +56,22 @@ All options expect a number (0/1 for bool options, any integer otherwise)
 | --dense_ranking (bool) | Enables dense ranking constraint | 1 |
 | --symmetry (bool) | Enables priority symmetry propagator | 1 |
 
+<h2>Run experiments</h2>
 
+We used [slurm](https://slurm.schedmd.com/documentation.html) for running our experiments. All the scripts for reproducing our experiments are stored in the slurm-scripts folder. We describe the use of each slurm script below:
+
+<ul>
+    <li>run-baseline.sh: Run the CP model with all propagators and constraints (but Simulation Check) disabled for 20 small instances</li>
+    <li>run-all.sh: Run the CP model for 20 small instances</li>
+    <li>run-no-slb.sh: Run the CP model with Simulation Lower Bound disabled for 20 small instances</li>
+    <li>run-no-dr.sh: Run the CP model with Dense Ranking disabled for 20 small instances</li>
+    <li>run-no-ps.sh: Run the CP model with Priority Symmetry disabled for 20 small instances</li>
+    <li>run-no-sw.sh: Run the CP model with Single Window for 20 small instances</li>
+    <li>run-small.sh: Run the CP on 240 small instances</li>
+    <li>run-large.sh: Run the CP model on 240 large instances</li>
+    <li>run-mtp.sh: Run the CP model on the 4 MTP instances</li>
+    <li>run-iterative-small.sh: Run IterativeLeveling heuristic on 240 small instances</li>
+    <li>run-iterative-large.sh: Run IterativeLeveling heuristic on 240 large instances</li>
+    <li>run-repair-small.sh: Run RepairDescent heuristic on 240 small instances</li>
+    <li>run-repair-small.sh: Run RepairDescent heuristic on 240 large instances</li>
+</ul>

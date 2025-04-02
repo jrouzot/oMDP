@@ -1,9 +1,0 @@
-buffers=4
-windows=8
-args generated-new/354.txt 12345 3
-original_lb=0.696
-time=0.000
-obj=0.993
-time=0.000
-obj=0.696
-end 0.000

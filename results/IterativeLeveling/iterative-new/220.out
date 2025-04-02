@@ -1,9 +1,0 @@
-buffers=4
-windows=8
-args generated-new/220.txt 12345 3
-original_lb=0.477
-time=0.002
-obj=1.080
-time=0.151
-obj=0.852
-end 1.703

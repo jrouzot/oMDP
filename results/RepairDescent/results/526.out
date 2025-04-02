@@ -1,9 +1,0 @@
-buffers=8
-windows=4
-args generated-new/526.txt 12345 1
-original_lb=0.713
-time=0.003
-obj=0.732
-time=0.003
-obj=0.713
-c real margin = 0.287

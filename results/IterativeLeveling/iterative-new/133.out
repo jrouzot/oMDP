@@ -1,7 +1,0 @@
-buffers=4
-windows=8
-args generated-new/133.txt 12345 3
-original_lb=0.571
-time=0.003
-obj=0.660
-end 1.137

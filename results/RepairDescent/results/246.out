@@ -1,7 +1,0 @@
-buffers=4
-windows=12
-args generated-new/246.txt 12345 1
-original_lb=0.654
-time=0.002
-obj=1.020
-FAIL AT WINDOW 2

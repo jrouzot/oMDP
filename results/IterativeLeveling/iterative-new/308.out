@@ -1,7 +1,0 @@
-buffers=6
-windows=4
-args generated-new/308.txt 12345 3
-original_lb=0.631
-time=0.003
-obj=0.631
-end 0.003

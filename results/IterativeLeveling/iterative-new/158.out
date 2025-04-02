@@ -1,9 +1,0 @@
-buffers=4
-windows=12
-args generated-new/158.txt 12345 3
-original_lb=0.637
-time=0.002
-obj=0.801
-time=0.003
-obj=0.637
-end 0.003

@@ -1,9 +1,0 @@
-buffers=4
-windows=8
-args generated-new/460.txt 12345 3
-original_lb=0.597
-time=0.002
-obj=0.797
-time=0.002
-obj=0.597
-end 0.002

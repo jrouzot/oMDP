@@ -1,9 +1,0 @@
-buffers=4
-windows=12
-args generated-new/120.txt 12345 3
-original_lb=0.469
-time=0.003
-obj=1.032
-time=0.003
-obj=0.734
-end 5.590

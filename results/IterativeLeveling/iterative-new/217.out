@@ -1,9 +1,0 @@
-buffers=4
-windows=4
-args generated-new/217.txt 12345 3
-original_lb=0.372
-time=0.002
-obj=0.391
-time=0.002
-obj=0.372
-end 0.002
