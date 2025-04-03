@@ -111,7 +111,7 @@ def computeCapacity(buffer, nbWindows, horizon):
     """
     Compute the capacity of a given buffer. 
     We target sumProduction * 2 / nbWindow => 
-    The buffer cannot hold data for more than 2 downlink window more or less
+    The buffer cannot hold data for more than 3 downlink window more or less
     """
     target = computeSumData(buffer, horizon) * 3 / nbWindows
     return round(random.uniform(target * 0.7, target * 1.3)) 
@@ -166,8 +166,8 @@ def main(args):
     Write the instance file as txt in @folder. 
     """
 
-    buffers = [4]
-    windows = [4]
+    buffers = args.buffers
+    windows = args.windows
 
     for b in buffers:
             for w in windows:
